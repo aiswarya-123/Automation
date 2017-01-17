@@ -1,0 +1,19 @@
+<TOPOLOGY>
+    <COMPONENT>
+        <R1>
+	    <type>show_process</type>
+            <host>127.0.0.1</host>
+            <port>2101</port>
+	    <COMPONENTS>
+            </COMPONENTS>
+      	</R1>
+         <R2>
+	    <type>show_process</type>
+            <host>127.0.0.1</host>
+            <port>2102</port>
+	    <COMPONENTS>
+            </COMPONENTS>
+      	</R2>
+
+    </COMPONENT>
+</TOPOLOGY>
